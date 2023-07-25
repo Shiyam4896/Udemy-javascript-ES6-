@@ -6,6 +6,6 @@ var images = [
 var areas = [];
     images.forEach(function(image)
     {
-        areas.push(images.height * images.width);
+        areas.push(image.height * image.width);
     }
     );
