@@ -8,3 +8,4 @@ The repo involves the solutions for the exercises from the Udemy's JavaScript ES
 6. Every and Some
 7. Const and let
 8. Template Strings
+9. Arrow Functions
